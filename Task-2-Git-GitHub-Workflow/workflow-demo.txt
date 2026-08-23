@@ -1,4 +1,4 @@
-CodSoft DevOps Internship - Git & GitHub Workflow
+CodSoft DevOps Internship - Feature Branch Version
 
 This project demonstrates:
 - Git commits
