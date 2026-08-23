@@ -1,3 +1,12 @@
-CodSoft DevOps Internship - Main Branch Version
+CodSoft DevOps Internship - Git & GitHub Workflow
 
-This file is maintained on the main branch.
+This project demonstrates:
+- Git commits
+- Feature branches
+- Merge conflicts
+- Conflict resolution
+- Pull requests
+- Code review
+- Branch merging
+
+Both main and feature branch changes were intentionally modified and merged.
